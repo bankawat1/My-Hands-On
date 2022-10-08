@@ -1,4 +1,4 @@
-# Times-series using a Simple Neural Network
+# Times-series prediction on Bike-Sharing data - using MLP
 #### The purpose of this project is train an MLP that learns pattern using the features like temperature, humidity etc.
 
 ## Train-Validation curve
@@ -6,3 +6,5 @@
 
 ## Forecast on test set
 <img width="493" alt="results" src="https://user-images.githubusercontent.com/19544675/194709522-468e328d-f4c4-4051-8a38-de8b9fe4c99d.png">
+
+Disclaimer: As this project was done as part of the course work, it mostly the implementation of forward and backward pass along wth hyperparam optimization was done extensivly by me, rest of the details comes from the course work.
