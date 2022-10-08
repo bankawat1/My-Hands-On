@@ -1,3 +1,11 @@
+""" This module contain class that helps to implement forward and backward pass using numpy
+
+This file can be imported as module and contains following functions:
+ * train function -  that controls both forwardpass, backwardPass and updating of weights.
+ * forward_pass_train - it performs a forwardpass
+ * backpropagation - it performs backpropagation for a minibatch
+ * run function - it performs a forward pass just for inference
+"""
 
 import numpy as np
 
