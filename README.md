@@ -1,5 +1,5 @@
 # Times-series using a Simple Neural Network
-### The purpose of this project is to predict bike sharing forecast of next three months.
+### The purpose of this project is train an MLP that learns pattern using the features like temperature, humidity etc.
 
 ## Train-Validation curve
 <img width="374" alt="validation" src="https://user-images.githubusercontent.com/19544675/194709502-d91afa58-5ff0-46ef-a8cd-2ec2398aa7ba.png">
